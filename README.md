@@ -3,10 +3,8 @@
 🔗 [Click here to view my portfolio](https://future-fs-01-peach.vercel.app)
 
 ---
+![Portfolio Screenshot](https://github.com/chopparaputejasri360-lang/FUTURE_FS_01/blob/main/Screenshot%202025-09-28%20004247.png?raw=true)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
